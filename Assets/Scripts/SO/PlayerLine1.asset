@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6eb2ade263b09642b5a557c5e0a2f28, type: 3}
+  m_Name: PlayerLine1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogeLine
+  speakerName: Space Marine
+  dialogLine: I'm lost my ship just crashed! I don't ...
+  speakerIcon: {fileID: -78277798, guid: f23a9b5348b167445a4e62ed071b7dc1, type: 3}
